@@ -21347,6 +21347,28 @@ const data3: Protocol[] = [
     twitter: "Uniswap",
     listedAt: 1697674181
   },
+  {
+    id: "3658",
+    name: "Cog Finance",
+    address: null,
+    symbol: "-",
+    url: "https://cog.finance/",
+    description: "Cog uses an unique approach to maximize both decentralization and capital efficiency. There are several things Cog will do to provide the fairest and most effective lending experience",
+    chain: "Scroll",
+    logo: `${baseIconsUrl}/cog-finance.png`,
+    audits: "2",
+    audit_note: null,
+    gecko_id: null,
+    cmcId: null,
+    category: "Lending",
+    chains: ["Scroll"],
+    oracles: ["Chainlink"],
+    forkedFrom: [],
+    module: "dummy.js",
+    twitter: "CogFinance",
+    github: "https://github.com/CogFinance/Cog-Isolated-Lending",
+    listedAt: 1697670000
+  },
 ]
 
 export default data3
